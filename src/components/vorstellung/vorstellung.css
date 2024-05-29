@@ -1,0 +1,118 @@
+.jg__vorstellung {
+    display: flex;
+    padding: 4rem 6rem 0 6rem;
+}
+
+.jg__vorstellung-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+
+.jg__vorstellung-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    white-space: nowrap;
+    
+    margin-bottom: 2rem;
+}
+
+.jg__vorstellung-content h2 {
+    font-family: var(--font-family);
+    color: var(--color-text);
+    font-weight: 700;
+
+    font-size: 35px;
+    line-height: 40px;
+    letter-spacing: -0.04em;
+
+}
+
+.jg__vorstellung-content p {
+    font-family: var(--font-family);
+    color: var(--color-text);
+    font-size: 20px;
+    line-height: 27px;
+
+    margin-top: 1rem;
+}
+
+.jg__vorstellung-image {
+    flex: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self:flex-end;
+}
+
+.jg__vorstellung-image img {
+    width: 100%;
+    height: 100%;
+}
+
+
+@media screen and (max-width: 1600px) {
+    .jg__vorstellung-content h1{
+        white-space: break-spaces;
+        margin-bottom: 1rem;
+    }
+
+}
+
+@media screen and (max-width: 1050px) {
+    .jg__vorstellung {
+        flex-direction: column;
+    }
+
+    .jg__vorstellung-content {
+        margin: 0 0 3rem;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    .jg__vorstellung {
+        padding: 4rem;
+    }
+
+    .jg__vorstellung h1 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+
+    .jg__vorstellung p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .jg__vorstellung {
+        padding: 2rem 2rem 0 2rem;
+    }
+
+    .jg__vorstellung h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .jg__vorstellung h2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .jg__vorstellung p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
+
