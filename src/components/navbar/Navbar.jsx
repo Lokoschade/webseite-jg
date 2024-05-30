@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import { useTranslation } from "react-i18next";
-import "../../i18n";
+import Language from "../language/Language";
 import logo from "../../assets/logo_w.png";
 import "./navbar.css";
-import Language from "../language/Language";
+import { useTranslation } from "react-i18next";
 
 const Navbar = () => {
   const { t } = useTranslation();

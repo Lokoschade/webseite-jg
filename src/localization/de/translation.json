@@ -4,5 +4,18 @@
         "problem": "Problem",
         "ziele": "Ziele",
         "stimmen": "Stimmen für Jamila"
+    },
+    "vorstellung": {
+        "ueberschrift": "Wir haben ein Recht auf Information",
+        "untertitel": "Mitspracherecht durch Transparenz sichern",
+        "absatz1": "Ich bin Jamila Gränzer, Informatikstudentin des FB5 der Hochschule Anhalt.",
+        "absatz2": "Die Hochschule und vor allem der Fachbereich 5 liegen mir sehr am Herzen und ich sehe viel Potential, das noch nicht genutzt wird.",
+        "absatz3": "Derzeit gibt es Prozesse in der Hochschule, die für Studierende nicht transparent sind, obwohl diese die Existenz von Studiengängen und Fachbereichen betreffen. Es ist Zeit, dass sich das ändert."
+    },
+    "problem": {
+        "ueberschrift": "Es ist nicht in Ordnung, dass",
+        "punkt1":"aufgrund von Verschwiegenheitspflicht, mangelndem Interesse, mangelnder Information oder Fahrlässigkeit, die Studierendenschaft nicht über Prozesse, die ihren Fachbereich akut betreffen, informiert werden.",
+        "punkt2":"hinter geschlossenen Türen über Entscheidungen diskutiert wird, die uns, Studierende, etwas angehen.",
+        "punkt3":"es keine allgemeine Einsicht für Studierende in die Prozesse des StuRa und Senates gibt."
     }
 }

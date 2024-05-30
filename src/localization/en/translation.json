@@ -2,7 +2,20 @@
     "navbar": {
         "vorstellung": "About me",
         "problem": "Problem",
-        "ziele": "Goal",
+        "ziele": "Goals",
         "stimmen": "Votes for Jamila"
+    },
+    "vorstellung": {
+        "ueberschrift": "We have a right to be informed",
+        "untertitel": "Securing our right to have a say through demanding transparency",
+        "absatz1": "I am Jamila Gränzer, a student of Computer Science at Department 5 of Anhalt University.",
+        "absatz2": "This university, particularly Department 5, holds great importance to me. I see a lot of potential being left untapped.",
+        "absatz3": "Currently, there are university procedures occurring without proper communication to students. Despite their potentially significant consequences for our academic programs and departments, we remain uninformed. This has to change."
+    },
+    "problem": {
+        "ueberschrift": "It is not okay that",
+        "punkt1":"due to confidentiality obligations, lack of interest, lack of information, or negligence, the student body is not informed about processes that acutely affect their department.",
+        "punkt2":"decisions that concern us, the students, are discussed behind closed doors.",
+        "punkt3":"there is no general access for students to the processes of the Student Council and Senate"
     }
 }
