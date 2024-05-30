@@ -1,27 +1,13 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
+import { useTranslation } from "react-i18next";
+import "../../i18n";
 import logo from "../../assets/logo_w.png";
 import "./navbar.css";
 import Language from "../language/Language";
 
-const Menu = () => (
-  <>
-    <p>
-      <a href="#vorstellung">Über mich</a>
-    </p>
-    <p>
-      <a href="#problem">Problem</a>
-    </p>
-    <p>
-      <a href="#ziele">Ziele</a>
-    </p>
-    <p>
-      <a href="#stimmen">Stimmen für Jamila</a>
-    </p>
-  </>
-);
-
 const Navbar = () => {
+  const { t } = useTranslation();
   const [toggleMenu, setToggleMenu] = useState(false);
   return (
     <div className="jg__navbar">
@@ -30,7 +16,18 @@ const Navbar = () => {
           <img src={logo} alt="logo" />
         </div>
         <div className="jg__navbar-links_container">
-          <Menu />
+          <p>
+            <a href="#vorstellung">{t("navbar.vorstellung")}</a>
+          </p>
+          <p>
+            <a href="#problem">{t("navbar.problem")}</a>
+          </p>
+          <p>
+            <a href="#ziele">{t("navbar.ziele")}</a>
+          </p>
+          <p>
+            <a href="#stimmen">{t("navbar.stimmen")}</a>
+          </p>
         </div>
       </div>
       <div className="jg__navbar-lang">
@@ -53,7 +50,18 @@ const Navbar = () => {
         {toggleMenu && (
           <div className="jg__navbar-menu_container scale-up-center">
             <div className="jg__navbar-menu_container-links">
-              <Menu />
+              <p>
+                <a href="#vorstellung">{t("navbar.vorstellung")}</a>
+              </p>
+              <p>
+                <a href="#problem">{t("navbar.problem")}</a>
+              </p>
+              <p>
+                <a href="#ziele">{t("navbar.ziele")}</a>
+              </p>
+              <p>
+                <a href="#stimmen">{t("navbar.stimmen")}</a>
+              </p>
             </div>
           </div>
         )}
