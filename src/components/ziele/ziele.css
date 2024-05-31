@@ -1,0 +1,8 @@
+.jg__ziele {
+    display: flex;
+}
+
+.jg__ziele-text p {
+    font-family: var(--font-family);
+    color: var(--color-text);
+}

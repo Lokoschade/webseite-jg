@@ -1,6 +1,6 @@
 import React from "react";
 import "./break.css";
-import hs_logo from "../../assets/hsa_logo_white.png";
+import hs_logo from "../../assets/hsa_logo_platzhalter.png";
 
 const Break = () => {
   return (
