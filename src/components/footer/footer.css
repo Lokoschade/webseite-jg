@@ -9,6 +9,7 @@
 .jg__footer-links {
     display: flex;
     justify-content: space-between;
+    gap: 10px;
     align-items: flex-start;
     flex-wrap: wrap;
     flex-direction: row;
@@ -27,7 +28,7 @@
 }
 
 .jg__footer-links_logo img {
-    max-width: 150px;
+    max-width: 325px;
 }
 
 .jg__footer-links_logo p {

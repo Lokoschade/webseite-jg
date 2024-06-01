@@ -4,6 +4,7 @@ import Language from "../language/Language";
 import logo from "../../assets/logo_w.png";
 import "./navbar.css";
 import { useTranslation } from "react-i18next";
+import { NavHashLink } from "react-router-hash-link";
 
 const Navbar = () => {
   const { t } = useTranslation();
@@ -12,20 +13,24 @@ const Navbar = () => {
     <div className="jg__navbar">
       <div className="jg__navbar-links">
         <div className="jg__navbar-links_logo">
-          <img src={logo} alt="logo" />
+          <NavHashLink to="/">
+            <img src={logo} alt="logo" />
+          </NavHashLink>
         </div>
         <div className="jg__navbar-links_container">
           <p>
-            <a href="#vorstellung">{t("navbar.vorstellung")}</a>
+            <NavHashLink to="/#vorstellung">
+              {t("navbar.vorstellung")}
+            </NavHashLink>
           </p>
           <p>
-            <a href="#problem">{t("navbar.problem")}</a>
+            <NavHashLink to="/#problem">{t("navbar.problem")}</NavHashLink>
           </p>
           <p>
-            <a href="#ziele">{t("navbar.ziele")}</a>
+            <NavHashLink to="/#ziele">{t("navbar.ziele")}</NavHashLink>
           </p>
           <p>
-            <a href="#stimmen">{t("navbar.stimmen")}</a>
+            <NavHashLink to="/#stimmen">{t("navbar.stimmen")}</NavHashLink>
           </p>
         </div>
       </div>

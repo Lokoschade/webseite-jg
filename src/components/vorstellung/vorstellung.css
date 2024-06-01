@@ -34,7 +34,6 @@
     font-size: 35px;
     line-height: 40px;
     letter-spacing: -0.04em;
-
 }
 
 .jg__vorstellung-content p {
@@ -89,6 +88,10 @@
         line-height: 60px;
     }
 
+    .jg__vorstellung h2 {
+        font-size: 25px;
+        line-height: 28px;
+    }
 
     .jg__vorstellung p {
         font-size: 16px;

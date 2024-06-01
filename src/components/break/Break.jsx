@@ -1,12 +1,13 @@
 import React from "react";
 import "./break.css";
-import hs_logo from "../../assets/hsa_logo_platzhalter.png";
+import { useTranslation } from "react-i18next";
 
 const Break = () => {
+  const { t } = useTranslation();
   return (
     <div className="jg__break section__padding">
-      <div>
-        <img src={hs_logo} alt="HS-Anhalt"></img>
+      <div className="jg__break-content">
+        <h1>{t("break.zitat")}</h1>
       </div>
     </div>
   );
