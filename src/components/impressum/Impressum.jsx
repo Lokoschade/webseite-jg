@@ -3,7 +3,7 @@ import "./impressum.css";
 
 const Impressum = () => {
   return (
-    <div className="jg__impressum">
+    <div className="jg__impressum section__padding">
       <p>Jamila Gränzer</p>
       <p>Postfach 1102</p>
       <p>21366 Dahlenburg</p>

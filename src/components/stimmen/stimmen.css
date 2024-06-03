@@ -1,0 +1,11 @@
+.jg__stimmen {
+    display: none;
+    flex-direction: column;
+    padding: 1rem;
+    color: var(--color-text);
+}
+
+.jg__stimmen-container {
+    display: flex;
+    flex-wrap: wrap;
+}

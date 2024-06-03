@@ -44,7 +44,6 @@
 .jg__navbar-lang p,
 .jg__navbar-menu_container p {
     color: var(--color-text);
-    font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
     line-height: 25px;

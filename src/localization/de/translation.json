@@ -19,9 +19,25 @@
         "ueberschrift": "Es ist nicht in Ordnung, dass",
         "punkt1":"aufgrund von Verschwiegenheitspflicht, mangelndem Interesse, mangelnder Information oder Fahrlässigkeit, die Studierendenschaft nicht über Prozesse, die ihren Fachbereich akut betreffen, informiert werden.",
         "punkt2":"hinter geschlossenen Türen über Entscheidungen diskutiert wird, die uns, Studierende, etwas angehen.",
-        "punkt3":"es keine allgemeine Einsicht für Studierende in die Prozesse des StuRa und Senates gibt."
+        "punkt3":"es keine allgemeine Einsicht für Studierende in die Prozesse des StuRa und Senates gibt.",
+        "break":"Wir, als Studierende, haben ein Recht auf Mitsprache, Information und Transparenz. Wir gestalten die Hochschule mit und lassen nicht zu, dass stillschweigend irreversible Veränderungen, die uns akut betreffen, ohne unser Einverständnis umgesetzt werden.",
+        "ueberschrift2": "Fakt ist",
+        "punkt2_1":"Ohne Studierende gibt es keine Hochschule. Wir sind ein wichtiger Bestandteil der HSA.",
+        "punkt2_2":"Unsere Stimme hat Gewicht und überstimmt die Stimme von Professoren oder dem Präsidium.",
+        "punkt2_3":"Wir sollten unsere Stimme nutzen, für das, was uns wichtig ist und was wir schützen wollen."
     },
     "ziele": {
-        "text1":"Wir, als Studierende, haben ein Recht auf Mitsprache, Information und Transparenz. Wir gestalten die Hochschule mit und lassen nicht zu, dass stillschweigend irreversible Veränderungen, die uns akut betreffen, ohne unser Einverständnis umgesetzt werden."
+        "text": "Ich stelle mich für den Stura und den Senat auf, um Klarheit in die Prozesse zu bringen und setze mich dafür ein, dass wir informiert werden und damit unser Mitspracherecht nutzen können.",
+        "ueberschrift1": "StuRa",
+        "ueberschrift2": "Senat",
+        "text1": "Im StuRa kann ich eure Interessen und Initiativen unterstützen und freigeben, sowie euch über die Möglichkeiten informieren, die euch zur Verfügung stehen.",
+        "text2": "Im Senat werden hochschulpolitisch die schwerwiegensten Entscheidungen getroffen. Ich möchte euch über die Inhalte des Senates informieren und mich auch dort maßgeblich für Transparenz und Information für euch einsetzen.",
+        "subtext": "Konkret soll es eine Plattform geben, um auf Informationen zuzugreifen. Damit jede(r) von uns entscheiden kann, ob wir mit etwas einverstanden sind oder nicht, ob wir etwas unterstützen wollen oder berechtigte Kritik und Sorgen haben.",
+        "subtext2": "Wir, als Studierende, haben ein Recht auf Mitsprache, Information und Transparenz. Wir gestalten die Hochschule mit und lassen nicht zu, dass stillschweigend irreversible Veränderungen, die uns akut betreffen, ohne unser Einverständnis umgesetzt werden."
+    },
+    "stimmen": {
+        "latafat":"I am happy to support Jamila in her candidacy at our university. Having known Jamila for over two years, since we first became roommates, I can confidently say that she is an inspiring person who embodies fairness and genuine care for both people and her work. Jamila's unique combination of kindness, patience, and empathy makes her an exceptional candidate. She truly listens to people and is dedicated to addressing their concerns with sincerity and diligence. Her capacity to connect with people and understand their perspectives ensures that she will always strive to find the best solutions to any problems that arise. I believe that with Jamila in this position, we can look forward to a more inclusive, supportive, and responsive environment at our university. I wholeheartedly encourage you to vote for Jamila - a candidate who truly cares and will undoubtedly make a meaningful impact.",
+        "sven": "Ich durfte Jamila als eine super verantwortungsbewusste und empathische Person kennenlernen, die sich mit Herzen für die Belange der Studierenden einsetzt. Sie hat ein offenes Ohr für alle  und setzt sich aktiv für Lösungen ein. Jamila hat die nötige Energie und Tatkraft, um ihre Ziele zu erreichen. Die Vertretung der Studierenden wird so definitiv gestärkt und ist in echt guten Händen. Ich könnte mir niemanden Zuverlässigeres vorstellen.",
+        "anon": ""
     }
 }

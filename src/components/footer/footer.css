@@ -32,7 +32,6 @@
 }
 
 .jg__footer-links_logo p {
-    font-family: var(--font-family);
     font-size: 12px;
     line-height: 14px;
     color: var(--color-text);
@@ -45,7 +44,6 @@
 }
 
 .jg__footer-links_div h4 {
-    font-family: var(--font-family);
     font-size: 14px;
     line-height: 16px;
     color: var(--color-text);
@@ -53,7 +51,6 @@
 }
 
 .jg__footer-links_div p {
-    font-family: var(--font-family);
     font-size: 12px;
     line-height: 14px;
     color: var(--color-text);

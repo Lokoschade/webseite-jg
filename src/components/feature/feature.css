@@ -1,0 +1,7 @@
+.jg__features-container__feature {
+    flex: 1;
+}
+
+.jg__features-container__feature img {
+    max-width: 150px;
+}

@@ -16,9 +16,10 @@
         "ueberschrift": "It is not okay that",
         "punkt1":"due to confidentiality obligations, lack of interest, lack of information, or negligence, the student body is not informed about processes that acutely affect their department.",
         "punkt2":"decisions that concern us, the students, are discussed behind closed doors.",
-        "punkt3":"there is no general access for students to the processes of the Student Council and Senate"
+        "punkt3":"there is no general access for students to the processes of the Student Council and Senate",
+        "break":"We, as students, have a right to participation, information, and transparency. We shape the university and do not allow silent, irreversible changes that acutely affect us to be implemented without our consent."
     },
     "ziele": {
-        "text1":"We, as students, have a right to participation, information, and transparency. We shape the university and do not allow silent, irreversible changes that acutely affect us to be implemented without our consent."
+        "text1":""
     }
 }

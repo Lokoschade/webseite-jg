@@ -3,7 +3,7 @@ import "./datenschutz.css";
 
 const Datenschutz = () => {
   return (
-    <div className="jg__daten">
+    <div className="jg__daten section__padding">
       <h2>1. Datenschutz auf einen Blick</h2>
       <h3>Allgemeine Hinweise</h3>{" "}
       <p>

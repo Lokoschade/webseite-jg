@@ -15,7 +15,6 @@
 }
 
 .jg__break-content h1 {
-    font-family: var(--font-family);
     color: var(--color-text);
     font-weight: 400;
     font-style: italic;

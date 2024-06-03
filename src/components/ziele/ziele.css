@@ -1,8 +1,50 @@
 .jg__ziele {
     display: flex;
+    flex-direction: column;
 }
 
-.jg__ziele-text p {
-    font-family: var(--font-family);
+.jg__ziele-text p, .jg__ziele-subtext p {
+    margin: 1rem;
     color: var(--color-text);
+}
+
+.jg__ziele-pos {
+    display: flex;
+    padding: 2rem;
+    background: var(--gradient-bar);
+    border-radius: 1rem;
+    color: var(--color-bg);
+}
+
+.jg__ziele-pos__gap{
+    width: 15px;
+    background: var(--color-bg);
+    margin: -2rem 2rem -2rem 2rem;
+}
+
+.jg__ziele-pos__item {
+    flex: 1;
+}
+
+.jg__ziele-pos__item h2{
+    padding-bottom: 1rem;
+}
+
+@media screen and (max-width: 1050px) {
+    .jg__ziele-pos {
+        flex-direction: column;
+    }
+    .jg__ziele-pos__gap {
+        width: auto;
+        height: 15px;
+        margin: 2rem -2rem 2rem -2rem;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    
+}
+
+@media screen and (max-width: 550px) {
+    
 }
