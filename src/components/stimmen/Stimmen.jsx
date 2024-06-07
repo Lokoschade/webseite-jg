@@ -11,7 +11,7 @@ const Stimmen = () => {
   return (
     <div className="jg__stimmen section__margin" id="stimmen">
       <div className="jg__stimmen-heading">
-        <h1 className="gradient__text">Stimmen für Jamila</h1>
+        <h1 className="gradient__text">{t("stimmen.ueberschrift")}</h1>
       </div>
       <div className="jg__stimmen-container">
         <Feature
