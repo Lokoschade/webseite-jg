@@ -1,32 +1,29 @@
 import React from "react";
 import "./footer.css";
+import { useTranslation } from "react-i18next";
 import hsa_logo from "../../assets/hsa_logo_platzhalter.png";
 import { NavLink } from "react-router-dom";
 
 const Footer = () => {
+  const { t } = useTranslation();
   return (
     <div className="jg__footer section__padding">
       <div className="jg__footer-links">
         <div className="jg__footer-links_logo">
           <img src={hsa_logo} alt="Hochschule Anhalt" />
-          <p>Diese Webseite wurde von Friederike Ratteit erstellt.</p>
+          <p>{t("footer.createdBy")}</p>
         </div>
+        <div className="jg__footer-links_div"></div>
         <div className="jg__footer-links_div">
-          <h4>Links</h4>
-          <p>Social Media</p>
-          <p>Social Media</p>
-          <p>Social Media</p>
-        </div>
-        <div className="jg__footer-links_div">
-          <h4>Wichtige Dinge</h4>
+          <h4>{t("footer.ueberschrift")}</h4>
           <p>
-            <NavLink to="/impressum/">Impressum</NavLink>
+            <NavLink to="/impressum/">{t("footer.impressum")}</NavLink>
           </p>
           <p>
-            <NavLink to="/datenschutz/">Datenschutzerklärung</NavLink>
+            <NavLink to="/datenschutz/">{t("footer.daten")}</NavLink>
           </p>
           <p>
-            Bild des Köthener Ratke-Gebäudes von{" "}
+            {t("footer.bild")}{" "}
             <a href="https://www.roletschek.at/">Ralf Roletschek</a>
           </p>
         </div>
