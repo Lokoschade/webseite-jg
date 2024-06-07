@@ -30,7 +30,7 @@ const Stimmen = () => {
           imgUrl={Anon}
           name="J.S."
           fb="Angewandte Informatik FB5"
-          text={t("stimmen.sven")}
+          text={t("stimmen.anon")}
         />
       </div>
     </div>
