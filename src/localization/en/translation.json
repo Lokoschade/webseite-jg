@@ -3,7 +3,7 @@
         "vorstellung": "About me",
         "problem": "Problem",
         "ziele": "Goals",
-        "stimmen": "Votes for Jamila"
+        "stimmen": "Voices for Jamila"
     },
     "vorstellung": {
         "ueberschrift": "We have a right to be informed",
@@ -12,14 +12,32 @@
         "absatz2": "This university, particularly Department 5, holds great importance to me. I see a lot of potential being left untapped.",
         "absatz3": "Currently, there are university procedures occurring without proper communication to students. Despite their potentially significant consequences for our academic programs and departments, we remain uninformed. This has to change."
     },
+    "break": {
+        "zitat": ""
+    },
     "problem": {
         "ueberschrift": "It is not okay that",
         "punkt1":"due to confidentiality obligations, lack of interest, lack of information, or negligence, the student body is not informed about processes that acutely affect their department.",
         "punkt2":"decisions that concern us, the students, are discussed behind closed doors.",
         "punkt3":"there is no general access for students to the processes of the Student Council and Senate",
-        "break":"We, as students, have a right to participation, information, and transparency. We shape the university and do not allow silent, irreversible changes that acutely affect us to be implemented without our consent."
+        "break":"We, as students, have a right to participation, information, and transparency. We shape the university and do not allow silent, irreversible changes that acutely affect us to be implemented without our consent.",
+        "ueberschrift2": "",
+        "punkt2_1":"",
+        "punkt2_2":"",
+        "punkt2_3":""
     },
     "ziele": {
-        "text1":""
+        "text": "",
+        "ueberschrift1": "",
+        "ueberschrift2": "",
+        "text1": "",
+        "text2": "",
+        "subtext": "",
+        "subtext2": ""
+    },
+    "stimmen": {
+        "latafat":"I am happy to support Jamila in her candidacy at our university. Having known Jamila for over two years, since we first became roommates, I can confidently say that she is an inspiring person who embodies fairness and genuine care for both people and her work. Jamila's unique combination of kindness, patience, and empathy makes her an exceptional candidate. She truly listens to people and is dedicated to addressing their concerns with sincerity and diligence. Her capacity to connect with people and understand their perspectives ensures that she will always strive to find the best solutions to any problems that arise. I believe that with Jamila in this position, we can look forward to a more inclusive, supportive, and responsive environment at our university. I wholeheartedly encourage you to vote for Jamila - a candidate who truly cares and will undoubtedly make a meaningful impact.",
+        "sven": "Ich durfte Jamila als eine super verantwortungsbewusste und empathische Person kennenlernen, die sich mit Herzen für die Belange der Studierenden einsetzt. Sie hat ein offenes Ohr für alle  und setzt sich aktiv für Lösungen ein. Jamila hat die nötige Energie und Tatkraft, um ihre Ziele zu erreichen. Die Vertretung der Studierenden wird so definitiv gestärkt und ist in echt guten Händen. Ich könnte mir niemanden Zuverlässigeres vorstellen.",
+        "anon": "Jamila ist ehrlich und super ehrgeizig, wofür ich sie echt bewundere. Ich kenne sie zwar noch nicht so lange, doch ich weiß, dass sie mit Leidenschaft an ihre Projekte geht und uns daher sicher sehr gut vertreten wird. Außerdem ist ihr Engagement fast schon ansteckend."
     }
 }
