@@ -15,6 +15,11 @@ a {
     text-decoration: none;
 }
 
+p {
+  font-size: 20px;
+  line-height: 27px;
+}
+
 /*kommentar*/
 
 .gradient__bg {
@@ -90,6 +95,11 @@ a {
     .section__margin {
       margin: 0 4rem 0rem 4rem;
     }
+
+    p {
+      font-size: 16px;
+      line-height: 24px;
+  }
   }
 
   @media screen and (max-width: 550px) {
@@ -100,4 +110,9 @@ a {
     .section__margin {
       margin: 0 2rem 0rem 2rem;
     }
+
+    p {
+      font-size: 14px;
+      line-height: 24px;
+  }
   }

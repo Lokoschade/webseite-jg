@@ -9,7 +9,7 @@ import Anon from "../../assets/stimmen/person.png";
 const Stimmen = () => {
   const { t } = useTranslation();
   return (
-    <div className="jg__stimmen section__margin">
+    <div className="jg__stimmen section__margin" id="stimmen">
       <div className="jg__stimmen-heading">
         <h1 className="gradient__text">Stimmen für Jamila</h1>
       </div>
@@ -28,8 +28,8 @@ const Stimmen = () => {
         />
         <Feature
           imgUrl={Anon}
-          name="Anonym"
-          fb="J.S. FB5"
+          name="J.S."
+          fb="Angewandte Informatik FB5"
           text={t("stimmen.sven")}
         />
       </div>

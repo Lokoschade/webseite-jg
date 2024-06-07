@@ -1,7 +1,6 @@
 .jg__stimmen {
     display: flex;
     flex-direction: column;
-    padding: 1rem;
     color: var(--color-text);
 }
 
@@ -10,4 +9,12 @@
     flex-direction: row;
     flex-wrap: wrap;
     gap: 1rem;
+    margin-bottom: 4rem;
+}
+
+.jg__stimmen h1 {
+    font-size: 34px;
+    line-height: 45px;
+    font-weight: 800;
+    padding-bottom: 1rem;
 }

@@ -36,9 +36,6 @@
 
 .jg__vorstellung-content p {
     color: var(--color-text);
-    font-size: 20px;
-    line-height: 27px;
-
     margin-top: 1rem;
 }
 
@@ -89,11 +86,6 @@
         font-size: 25px;
         line-height: 28px;
     }
-
-    .jg__vorstellung p {
-        font-size: 16px;
-        line-height: 24px;
-    }
 }
 
 @media screen and (max-width: 490px) {
@@ -108,11 +100,6 @@
     .jg__vorstellung h2 {
         font-size: 18px;
         line-height: 28px;
-    }
-
-    .jg__vorstellung p {
-        font-size: 14px;
-        line-height: 24px;
     }
 }
 

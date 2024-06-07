@@ -3,7 +3,7 @@ import "./feature.css";
 
 const Feature = ({ imgUrl, name, fb, text }) => {
   const [isExpanded, setIsExpanded] = useState(false);
-  const [maxHeight, setMaxHeight] = useState("100px");
+  const [maxHeight, setMaxHeight] = useState("150px"); // Initiale Höhe angepasst
   const [needsReadMore, setNeedsReadMore] = useState(false);
   const contentRef = useRef(null);
 
@@ -12,7 +12,8 @@ const Feature = ({ imgUrl, name, fb, text }) => {
   };
 
   useEffect(() => {
-    if (contentRef.current.scrollHeight > 100) {
+    if (contentRef.current.scrollHeight > 150) {
+      // Überprüfung der Höhe angepasst
       setNeedsReadMore(true);
     } else {
       setNeedsReadMore(false);
@@ -20,7 +21,7 @@ const Feature = ({ imgUrl, name, fb, text }) => {
     if (isExpanded) {
       setMaxHeight(`${contentRef.current.scrollHeight}px`);
     } else {
-      setMaxHeight("100px");
+      setMaxHeight("150px"); // Initiale Höhe angepasst
     }
   }, [isExpanded, text]);
 
@@ -40,7 +41,7 @@ const Feature = ({ imgUrl, name, fb, text }) => {
         style={{ maxHeight: maxHeight }}
         ref={contentRef}
       >
-        <div className="jg__feature-text">{text}</div>
+        <p className="jg__feature-text">{text}</p>
       </div>
       {needsReadMore && (
         <button onClick={toggleReadMore} className="read-more-button">

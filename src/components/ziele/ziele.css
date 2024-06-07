@@ -12,7 +12,7 @@
     display: flex;
     padding: 2rem;
     background: var(--gradient-bar);
-    border-radius: 1rem;
+    border-radius: 10px;
     color: var(--color-bg);
 }
 
