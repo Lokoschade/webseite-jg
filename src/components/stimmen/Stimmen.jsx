@@ -28,9 +28,15 @@ const Stimmen = () => {
         />
         <Feature
           imgUrl={Anon}
-          name="J.S."
+          name="J. S."
           fb="Angewandte Informatik FB5"
           text={t("stimmen.anon")}
+        />
+        <Feature
+          imgUrl={Anon}
+          name="Ammar H. A."
+          fb="Master biomedical Engineering FB6"
+          text={t("stimmen.anon2")}
         />
       </div>
     </div>
