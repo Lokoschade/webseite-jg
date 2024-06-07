@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.753c0c0b.css",
-    "main.js": "/static/js/main.25fda9fc.js",
+    "main.js": "/static/js/main.e6293495.js",
     "static/media/ratke-gebaeude.jpg": "/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
     "static/media/Kandidaturfoto.png": "/static/media/Kandidaturfoto.66886bb091aa63e826b2.png",
     "static/media/Letafat Guliyeva.jpeg": "/static/media/Letafat Guliyeva.dada5cde61d7acfa6f11.jpeg",
@@ -13,10 +13,10 @@
     "static/media/german flag.svg": "/static/media/german flag.c754c87bc52a45b836d607e8ee29d92e.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.753c0c0b.css.map": "/static/css/main.753c0c0b.css.map",
-    "main.25fda9fc.js.map": "/static/js/main.25fda9fc.js.map"
+    "main.e6293495.js.map": "/static/js/main.e6293495.js.map"
   },
   "entrypoints": [
     "static/css/main.753c0c0b.css",
-    "static/js/main.25fda9fc.js"
+    "static/js/main.e6293495.js"
   ]
 }
