@@ -1,7 +1,42 @@
-.jg__features-container__feature {
-    flex: 1;
-}
-
-.jg__features-container__feature img {
-    max-width: 150px;
-}
+.jg__feature {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background: radial-gradient(circle at 71% 52%, #145446 15%, #02362A 55%);
+  }
+  
+  .jg__feature-person {
+    display: flex;
+    align-items: center;
+  }
+  
+  .jg__feature-person-pic img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .jg__feature-person-info p {
+    margin: 0;
+  }
+  
+  .jg__feature-text-container {
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+  
+  .jg__feature-text {
+    margin: 10px 0;
+  }
+  
+  .read-more-button {
+    background: none;
+    border: none;
+    color: #007BFF;
+    cursor: pointer;
+    padding: 0;
+    font-size: 14px;
+  }

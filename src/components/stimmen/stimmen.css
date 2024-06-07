@@ -1,5 +1,5 @@
 .jg__stimmen {
-    display: none;
+    display: flex;
     flex-direction: column;
     padding: 1rem;
     color: var(--color-text);
@@ -7,5 +7,7 @@
 
 .jg__stimmen-container {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
+    gap: 1rem;
 }
