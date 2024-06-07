@@ -10,8 +10,6 @@
     display: flex;
     justify-content: space-between;
     gap: 10px;
-    align-items: flex-start;
-    flex-wrap: wrap;
     flex-direction: row;
 
     width: 100%;
@@ -69,16 +67,19 @@
         font-size: 44px;
         line-height: 50px;
     }
+
+    .jg__footer-links {
+        flex-direction: column;
+    }
+    .jg__footer-links div {
+        margin: 1rem 0;
+    }
 }
 
 @media screen and (max-width: 550px) {
     .jg__footer-heading h1 {
         font-size: 34px;
         line-height: 42px;
-    }
-
-    .jg__footer-links div {
-        margin: 1rem 0;
     }
 
     .jg__footer-btn p {
