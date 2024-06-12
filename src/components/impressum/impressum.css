@@ -1,3 +1,7 @@
 .jg__impressum {
     color: var(--color-text);
 }
+
+.jg__impressum h1{
+    padding-top: 6rem;
+}

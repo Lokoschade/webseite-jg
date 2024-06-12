@@ -1,3 +1,7 @@
 .jg__daten {
     color: var(--color-text);
 }
+
+.jg__daten h1 {
+    padding-top: 6rem;
+}
