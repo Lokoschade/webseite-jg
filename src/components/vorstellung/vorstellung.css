@@ -1,6 +1,6 @@
 .jg__vorstellung {
     display: flex;
-    padding: 4rem 6rem 0 6rem;
+    padding: 8rem 6rem 0 6rem;
 }
 
 .jg__vorstellung-content {
@@ -74,7 +74,7 @@
 
 @media screen and (max-width: 650px) {
     .jg__vorstellung {
-        padding: 4rem;
+        padding: 8rem 4rem 4rem 4rem;
     }
 
     .jg__vorstellung h1 {
@@ -90,7 +90,7 @@
 
 @media screen and (max-width: 490px) {
     .jg__vorstellung {
-        padding: 2rem 2rem 0 2rem;
+        padding: 8rem 2rem 0 2rem;
     }
 
     .jg__vorstellung h1 {

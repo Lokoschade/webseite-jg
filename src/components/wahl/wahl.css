@@ -1,0 +1,10 @@
+.jg__wahl {
+    color: var(--color-text);
+}
+
+.jg__wahl h1{
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}

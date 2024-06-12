@@ -3,8 +3,16 @@
     justify-content: space-between;
     align-items: center;
 
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition: background-color 0.3s ease;
     padding: 2rem 6rem;
 }
+
+.navbar__background {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
 
 .jg__navbar-links {
     flex: 1;

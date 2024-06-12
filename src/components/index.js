@@ -10,4 +10,6 @@ export { default as DatenHeader } from './datenschutz/datenHeader/DatenHeader';
 export { default as Impressum } from './impressum/Impressum';
 export { default as ImpHeader } from './impressum/impHeader/ImpHeader';
 export { default as Feature } from './feature/Feature';
+export { default as Wahl } from './wahl/Wahl';
+export { default as WahlHeader } from './wahl/wahlHeader/WahlHeader';
 
