@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar, Vorstellung, Problem, Ziele, Stimmen, Footer, Break, Impressum, ImpHeader, Datenschutz, DatenHeader, Wahl, WahlHeader } from './components';
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Switch } from "react-router-dom";
 import './App.css';
 
 const App = () => {
