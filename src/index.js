@@ -9,5 +9,5 @@ const rootElement = document.getElementById('root');
 
 const root = createRoot(rootElement);
 
-root.render(<BrowserRouter basename={process.env.PUBLIC_URL}><App/>
+root.render(<BrowserRouter basename="/"><App/>
 </BrowserRouter>);
