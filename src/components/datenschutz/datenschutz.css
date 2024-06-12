@@ -5,3 +5,9 @@
 .jg__daten h1 {
     padding-top: 6rem;
 }
+
+@media screen and (max-width: 450px) {
+    .jg__daten h1 {
+        font-size: 25px;
+    }
+}
