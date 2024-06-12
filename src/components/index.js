@@ -12,4 +12,5 @@ export { default as ImpHeader } from './impressum/impHeader/ImpHeader';
 export { default as Feature } from './feature/Feature';
 export { default as Wahl } from './wahl/Wahl';
 export { default as WahlHeader } from './wahl/wahlHeader/WahlHeader';
+export { default as PageNotFound } from './pageNotFound/PageNotFound';
 
