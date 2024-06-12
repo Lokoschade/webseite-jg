@@ -17,10 +17,10 @@ const Footer = () => {
         <div className="jg__footer-links_div">
           <h4>{t("footer.ueberschrift")}</h4>
           <p>
-            <NavLink to="/impressum/">{t("footer.impressum")}</NavLink>
+            <NavLink to="/impressum">{t("footer.impressum")}</NavLink>
           </p>
           <p>
-            <NavLink to="/datenschutz/">{t("footer.daten")}</NavLink>
+            <NavLink to="/datenschutz">{t("footer.daten")}</NavLink>
           </p>
           <p>
             {t("footer.bild")}{" "}

@@ -51,7 +51,7 @@ const Navbar = () => {
             <HashLink to="/#stimmen">{t("navbar.stimmen")}</HashLink>
           </p>
           <p>
-            <NavLink to="/wahlanleitung/">{t("navbar.wahl")}</NavLink>
+            <NavLink to="/wahlanleitung">{t("navbar.wahl")}</NavLink>
           </p>
         </div>
       </div>
