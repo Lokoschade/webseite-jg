@@ -8,18 +8,22 @@ const App = () => {
     <div className='App'>
       <div className='gradient__bg'>
         <Navbar />
-        <Routes>
-          <Route path="" element={<Vorstellung />}/>
-          <Route path="/datenschutz" element={<DatenHeader/>}/>
-          <Route path="/impressum" element={<ImpHeader/>}/>
-          <Route path='/wahlanleitung' element={<WahlHeader/>}/>
-        </Routes>
+          <Switch>
+            <Routes>
+              <Route path="" element={<Vorstellung />}/>
+              <Route path="/datenschutz" element={<DatenHeader/>}/>
+              <Route path="/impressum" element={<ImpHeader/>}/>
+              <Route path='/wahlanleitung' element={<WahlHeader/>}/>
+            </Routes>
+          </Switch>
       </div>
       <Routes>
-        <Route path="" element={<div><Break /><Problem /><Ziele /><Stimmen /></div>}/>
-        <Route path="/datenschutz" element={<Datenschutz/>}/>
-        <Route path="/impressum" element={<Impressum/>}/>
-        <Route path="/wahlanleitung" element={<Wahl/>}/>
+        <Switch>
+          <Route path="" element={<div><Break /><Problem /><Ziele /><Stimmen /></div>}/>
+          <Route path="/datenschutz" element={<Datenschutz/>}/>
+          <Route path="/impressum" element={<Impressum/>}/>
+          <Route path="/wahlanleitung" element={<Wahl/>}/>
+        </Switch>
       </Routes>
       <Footer />
     </div>
