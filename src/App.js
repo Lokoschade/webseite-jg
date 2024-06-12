@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, Vorstellung, Problem, Ziele, Stimmen, Footer, Break, Impressum, ImpHeader, Datenschutz, DatenHeader, Wahl, WahlHeader, PageNotFound } from './components';
+import { Navbar, Vorstellung, Problem, Ziele, Stimmen, Footer, Break, Impressum, ImpHeader, Datenschutz, DatenHeader, Wahl, WahlHeader} from './components';
 import { Route, Routes } from "react-router-dom";
 import './App.css';
 
@@ -13,7 +13,6 @@ const App = () => {
               <Route path="/datenschutz" element={<DatenHeader/>}/>
               <Route path="/impressum" element={<ImpHeader/>}/>
               <Route path='/wahlanleitung' element={<WahlHeader/>}/>
-              <Route path="*" element={<PageNotFound />} />
           </Routes>   
       </div>
       <Routes>
@@ -21,7 +20,6 @@ const App = () => {
           <Route path="/datenschutz" element={<Datenschutz/>}/>
           <Route path="/impressum" element={<Impressum/>}/>
           <Route path="/wahlanleitung" element={<Wahl/>}/>
-          <Route path="*" element={<PageNotFound />} />
       </Routes>
       <Footer />
     </div>
