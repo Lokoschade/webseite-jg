@@ -4,6 +4,8 @@ import { useTranslation } from "react-i18next";
 import { Feature } from "../../components";
 import Sven from "../../assets/stimmen/Sven Drews.jpeg";
 import Letafat from "../../assets/stimmen/Letafat Guliyeva.jpeg";
+import Hashem from "../../assets/stimmen/Hashem.jpeg";
+import Sara from "../../assets/stimmen/Sara.jpeg";
 import Anon from "../../assets/stimmen/person.png";
 
 const Stimmen = () => {
@@ -26,6 +28,18 @@ const Stimmen = () => {
           fb="Molecular Biotechnology (Master's) FB7"
           text={t("stimmen.latafat")}
         />
+          <Feature
+              imgUrl={Hashem}
+              name="Hashem M."
+              fb="Angewandte Informatik FB5"
+              text={t("stimmen.hashem")}
+          />
+          <Feature
+              imgUrl={Sara}
+              name="Sara safari B."
+              fb="Molecular biotechnology (master) FB7"
+              text={t("stimmen.sara")}
+          />
         <Feature
           imgUrl={Anon}
           name="J. S."
@@ -38,6 +52,12 @@ const Stimmen = () => {
           fb="Master biomedical Engineering FB6"
           text={t("stimmen.anon2")}
         />
+          <Feature
+              imgUrl={Anon}
+              name="Lucas R."
+              fb="Angewandte Informatik FB5"
+              text={t("stimmen.lucas")}
+          />
       </div>
     </div>
   );
