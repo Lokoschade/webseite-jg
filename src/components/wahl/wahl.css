@@ -2,7 +2,6 @@
     color: var(--color-text);
     display: flex;
     flex-direction: column;
-    align-items: center;
     padding: 20px;
 }
 
@@ -14,14 +13,9 @@
     letter-spacing: -0.04em;
 }
 
-.jg__wahl-step {
-    margin-bottom: 20px;
-    text-align: center;
-}
-
 .jg__wahl-image {
     width: 100%;
-    max-width: 850px;
+    max-width: 900px;
     height: auto;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -29,4 +23,12 @@
 
 .jg__wahl-text {
     font-size: 16px;
+    max-width: 850px;
+    width: 100%;
+    margin: 1rem 0 1rem 0; 
+}
+
+.jg__wahl-image, .jg__wahl-text {
+    display: flex;
+    align-self: center;
 }
