@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bcb066f.css",
-    "main.js": "/static/js/main.a7c51e61.js",
+    "main.css": "/static/css/main.709aaba0.css",
+    "main.js": "/static/js/main.57e8972c.js",
     "static/media/ratke-gebaeude.jpg": "/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
     "static/media/Kandidaturfoto.png": "/static/media/Kandidaturfoto.66886bb091aa63e826b2.png",
     "static/media/Letafat Guliyeva.jpeg": "/static/media/Letafat Guliyeva.dada5cde61d7acfa6f11.jpeg",
+    "static/media/anleitung7.PNG": "/static/media/anleitung7.99e02d7f9c10d26a19de.PNG",
+    "static/media/anleitung6.PNG": "/static/media/anleitung6.898b29d947647c4f9bbb.PNG",
+    "static/media/anleitung4.PNG": "/static/media/anleitung4.ae6b075a8c459f998388.PNG",
+    "static/media/anleitung3.PNG": "/static/media/anleitung3.1034cc1c197b2f59b5ed.PNG",
+    "static/media/anleitung5.PNG": "/static/media/anleitung5.ea8a678d48395cf3a84b.PNG",
+    "static/media/Hashem.jpeg": "/static/media/Hashem.ba685b453eb02d5ddecc.jpeg",
+    "static/media/Sara.jpeg": "/static/media/Sara.b66e7be2f37da1eee09c.jpeg",
+    "static/media/anleitung1.PNG": "/static/media/anleitung1.f7523193329485217ad2.PNG",
+    "static/media/anleitung2.PNG": "/static/media/anleitung2.13d9bb136c37883af2e2.PNG",
     "static/media/Sven Drews.jpeg": "/static/media/Sven Drews.3f0e26e1d6c0cb279344.jpeg",
     "static/media/logo_w.png": "/static/media/logo_w.e093394c2b669d135109.png",
     "static/media/hsa_logo_platzhalter.png": "/static/media/hsa_logo_platzhalter.e42ac8ee3e458393691c.png",
@@ -12,11 +21,11 @@
     "index.html": "/index.html",
     "static/media/german flag.svg": "/static/media/german flag.c754c87bc52a45b836d607e8ee29d92e.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.7bcb066f.css.map": "/static/css/main.7bcb066f.css.map",
-    "main.a7c51e61.js.map": "/static/js/main.a7c51e61.js.map"
+    "main.709aaba0.css.map": "/static/css/main.709aaba0.css.map",
+    "main.57e8972c.js.map": "/static/js/main.57e8972c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bcb066f.css",
-    "static/js/main.a7c51e61.js"
+    "static/css/main.709aaba0.css",
+    "static/js/main.57e8972c.js"
   ]
 }
