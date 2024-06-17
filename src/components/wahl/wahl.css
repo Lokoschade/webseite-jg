@@ -1,5 +1,9 @@
 .jg__wahl {
     color: var(--color-text);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
 }
 
 .jg__wahl h1{
@@ -10,3 +14,22 @@
     line-height: 75px;
     letter-spacing: -0.04em;
 }
+
+  
+  .jg__wahl-step {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .jg__wahl-image {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .jg__wahl-text {
+    font-size: 16px;
+    color: #333;
+  }
