@@ -32,3 +32,19 @@
     display: flex;
     align-self: center;
 }
+
+@media screen and (max-width: 650px) {
+
+    .jg__wahl h1 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+
+    .jg__wahl h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+}
