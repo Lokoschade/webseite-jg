@@ -52,5 +52,20 @@
         "impressum": "Impressum",
         "daten": "Datenschutzerklärung",
         "bild": "Bild des Köthener Ratke-Gebäudes von"
+    },
+
+    "wahl": {
+        "step1": "1. Ihr bekommt eine Email vom POLYAS E-Voting System:",
+        "step2": "2. In dieser Email stehen eure persönlichen Zugangsdaten zur Wahl und ein Link:",
+        "step3": "3. Auf den Link klicken und die Zugangsdaten eingeben, wenn die Anmeldung erfolgreich war, erscheint dieses Fenster:",
+        "step4": "4. Auf “Weiter zur Stimmabgabe” klicken  und es öffnet sich eine Lange Liste. Je nach dem, ob ihr den Beitrag für die Studierendenschaft zahlt, mit 4 oder 2 “Stimmzetteln”.",
+        "step5_1": "Option 1: Ihr zahlt nicht den Beitrag für die Studierendenschaft: Es kommt zuerst die Wahl zum Fachbereichsrat (2 Stimmen abgebbar) wenn ihr weiter runterscrollt, kommt die Wahl für den Senat, (4 Stimmen abgebbar)",
+        "step5_2": "Option 2:  Ihr zahlt den Beitrag für die Studierendenschaft: Als erstes kommt die Wahl zur Fachschaft eures Fachbereichs: (7 Stimmen)",
+        "step5_21": "Runterscrollen: Wahl für den Fachbereichsrat (2 Stimmen) Beispiel FB5:",
+        "step5_22": "Runterscrollen: Wahl für den StuRa/Studierendenrat (5 Stimmen)",
+        "step5_23": "Runterscrollen: Wahl für den Senat (4 Stimmen)",
+        "step6": "Sobald ihr eure Auswahl für alle Positionen getroffen habt, geht ihr auf “Weiter zur Stimmabgabe”.",
+        "step7": "Es kommt eine Benachrichtigung/Fenster “Ihre Stimme ist erfolgreich eingegangen. Sie können das Fenster nun schließen.”",
+        "hinweis": "Hinweis: Wenn es nicht doppelt so viele Bewerber gibt, wie zu besetzenden Plätze, könnt ihr weitere Kandidaten manuell dazu schreiben und euch oder andere zusätzlich zur Wahl aufstellen."
     }
 }

@@ -6,30 +6,27 @@
     padding: 20px;
 }
 
-.jg__wahl h1{
+.jg__wahl h1 {
     padding-top: 6rem;
-    
     font-weight: 800;
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
 }
 
-  
-  .jg__wahl-step {
+.jg__wahl-step {
     margin-bottom: 20px;
     text-align: center;
-  }
-  
-  .jg__wahl-image {
-    max-width: 100%;
+}
+
+.jg__wahl-image {
+    width: 100%;
+    max-width: 850px;
     height: auto;
-    border: 1px solid #ccc;
     border-radius: 8px;
     margin-bottom: 10px;
-  }
-  
-  .jg__wahl-text {
+}
+
+.jg__wahl-text {
     font-size: 16px;
-    color: #333;
-  }
+}
