@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.709aaba0.css",
+    "main.css": "/static/css/main.803f9765.css",
     "main.js": "/static/js/main.57e8972c.js",
     "static/media/ratke-gebaeude.jpg": "/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
     "static/media/Kandidaturfoto.png": "/static/media/Kandidaturfoto.66886bb091aa63e826b2.png",
@@ -21,11 +21,11 @@
     "index.html": "/index.html",
     "static/media/german flag.svg": "/static/media/german flag.c754c87bc52a45b836d607e8ee29d92e.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.709aaba0.css.map": "/static/css/main.709aaba0.css.map",
+    "main.803f9765.css.map": "/static/css/main.803f9765.css.map",
     "main.57e8972c.js.map": "/static/js/main.57e8972c.js.map"
   },
   "entrypoints": [
-    "static/css/main.709aaba0.css",
+    "static/css/main.803f9765.css",
     "static/js/main.57e8972c.js"
   ]
 }
