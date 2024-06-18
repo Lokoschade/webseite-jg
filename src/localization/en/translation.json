@@ -52,17 +52,17 @@
     },
 
     "wahl": {
-        "step1": "1. Ihr bekommt eine Email vom POLYAS E-Voting System:",
-        "step2": "2. In dieser Email stehen eure persönlichen Zugangsdaten zur Wahl und ein Link:",
-        "step3": "3. Auf den Link klicken und die Zugangsdaten eingeben, wenn die Anmeldung erfolgreich war, erscheint dieses Fenster:",
-        "step4": "4. Auf “Weiter zur Stimmabgabe” klicken  und es öffnet sich eine Lange Liste. Je nach dem, ob ihr den Beitrag für die Studierendenschaft zahlt, mit 4 oder 2 “Stimmzetteln”.",
-        "step5_1": "Option 1: Ihr zahlt nicht den Beitrag für die Studierendenschaft: Es kommt zuerst die Wahl zum Fachbereichsrat (2 Stimmen abgebbar) wenn ihr weiter runterscrollt, kommt die Wahl für den Senat, (4 Stimmen abgebbar)",
-        "step5_2": "Option 2:  Ihr zahlt den Beitrag für die Studierendenschaft: Als erstes kommt die Wahl zur Fachschaft eures Fachbereichs: (7 Stimmen)",
-        "step5_21": "Runterscrollen: Wahl für den Fachbereichsrat (2 Stimmen) Beispiel FB5:",
-        "step5_22": "Runterscrollen: Wahl für den StuRa/Studierendenrat (5 Stimmen)",
-        "step5_23": "Runterscrollen: Wahl für den Senat (4 Stimmen)",
-        "step6": "5. Sobald ihr eure Auswahl für alle Positionen getroffen habt, geht ihr auf “Weiter zur Stimmabgabe”.",
-        "step7": "6. Es kommt eine Benachrichtigung/Fenster “Ihre Stimme ist erfolgreich eingegangen. Sie können das Fenster nun schließen.”",
-        "hinweis": "Hinweise: Wenn es nicht doppelt so viele Bewerber gibt, wie zu besetzenden Plätze, könnt ihr weitere Kandidaten manuell dazu schreiben und euch oder andere zusätzlich zur Wahl aufstellen."
+        "step1": "1. You will recieve an Email from the POLYAS E-Voting System:",
+        "step2": "2. In this Email you will find your personal login information for the election and a link to the election site.",
+        "step3": "3. Click on the Link and put in the personal login informations that you recieved prior.If the login was successful, the following window will open:",
+        "step4": "4. Click on “Weiter zur Stimmabgabe”.  A long list will open. Depending on whether you are paying for the Student Council extra or not, you will be able to vote for two or four positions.",
+        "step5_1": "Option 1: You are not paying the Fee for the Student Council: First you can Vote for the Fachbereichsrat (You can give up to 2 Votes) when you scroll further down, you can select the Candidates for the Senate, (You can give up to 4 Votes)",
+        "step5_2": "Option 2:  You are paying the Fee for the Student Council: First you can vote for the Fachschaft of your Department: (You can give up to 7 Votes)",
+        "step5_21": "Scroll down: Election of the Fachbereichsrat (You can give 2 Votes) Example FB5:",
+        "step5_22": "Scroll down: Election for the StuRa/Student Council (You can give up to 5 Votes)",
+        "step5_23": "Scroll down: Election for the Senate (You can give up to 4 Votes)",
+        "step6": "5. When you have put in your Vote for all positions, you click on “Weiter zur Stimmabgabe” to finalize your votes.",
+        "step7": "6. You will recieve a notification/a window will open with the text: “Ihre Stimme ist erfolgreich eingegangen. Sie können das Fenster nun schließen.” This translates to 'Your Votes were recieved successfully. You can Close the Window now.' ",
+        "hinweis": "Tip: If there are not double the amount of Candidates as there are Positions, You can Write more Candidates on the Voting poll inside the empty fields.The Written Person will be seen from others as a votable Candidate as well."
     }
 } 
