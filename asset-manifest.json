@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.803f9765.css",
-    "main.js": "/static/js/main.57e8972c.js",
+    "main.js": "/static/js/main.ae6ce211.js",
     "static/media/ratke-gebaeude.jpg": "/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
     "static/media/Kandidaturfoto.png": "/static/media/Kandidaturfoto.66886bb091aa63e826b2.png",
     "static/media/Letafat Guliyeva.jpeg": "/static/media/Letafat Guliyeva.dada5cde61d7acfa6f11.jpeg",
@@ -17,15 +17,15 @@
     "static/media/Sven Drews.jpeg": "/static/media/Sven Drews.3f0e26e1d6c0cb279344.jpeg",
     "static/media/logo_w.png": "/static/media/logo_w.e093394c2b669d135109.png",
     "static/media/hsa_logo_platzhalter.png": "/static/media/hsa_logo_platzhalter.e42ac8ee3e458393691c.png",
-    "static/media/uk flag.svg": "/static/media/uk flag.64f4888de4e141c124f279d7ef290c17.svg",
+    "static/media/uk flag.svg": "/static/media/uk flag.bca4c3c01fafedfd08364e067960c74b.svg",
     "index.html": "/index.html",
-    "static/media/german flag.svg": "/static/media/german flag.c754c87bc52a45b836d607e8ee29d92e.svg",
+    "static/media/german flag.svg": "/static/media/german flag.f5d7d6f6dc4831f8d895c2199342bbe7.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.803f9765.css.map": "/static/css/main.803f9765.css.map",
-    "main.57e8972c.js.map": "/static/js/main.57e8972c.js.map"
+    "main.ae6ce211.js.map": "/static/js/main.ae6ce211.js.map"
   },
   "entrypoints": [
     "static/css/main.803f9765.css",
-    "static/js/main.57e8972c.js"
+    "static/js/main.ae6ce211.js"
   ]
 }
